@@ -4,7 +4,7 @@ Project was updated March 2023. Please view the revised versions to see latest u
 
 Information:
 Mined State Drug Utilization Data from the Medicaid Drug Rebate Program to determine usage of antidepressants before and during COVID-19 pandemic in the United States.
-Data cleaned and filtered with Python.
+Data was cleaned and filtered with Python.
 Interactive dashboard was created using Excel pivot tables and pivot charts.
 
 Insights:
